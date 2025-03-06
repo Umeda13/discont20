@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1741289199142" clover="3.2.0">
-  <project timestamp="1741289199142" name="All files">
+<coverage generated="1741290374843" clover="3.2.0">
+  <project timestamp="1741290374844" name="All files">
     <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5" elements="21" coveredelements="21" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
     <file name="DiscountService.js" path="/home/azamat/Рабочий стол/discount20/discount20/src/DiscountService.js">
       <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="5" coveredmethods="5"/>
